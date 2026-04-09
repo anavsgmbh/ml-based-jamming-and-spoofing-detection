@@ -1,0 +1,9 @@
+{
+    "seq_len": [300],
+    "batch_size": [16],
+    "hidden_size": [64, 128],
+    "learning_rate": [0.01, 0.0015],
+    "num_epochs": [300],
+    "data_dir": "data_dir",
+    "save_dir_base": "model_output_gitHub"
+}
